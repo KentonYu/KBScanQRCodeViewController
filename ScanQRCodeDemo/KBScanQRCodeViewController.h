@@ -15,8 +15,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy, readwrite) NSString *descriptionText;
 @property (nonatomic, copy, readwrite) void(^captureOutputBlock)(KBScanQRCodeViewController *, NSString *);
 
-+ (instancetype)viewControllerWithNavgationTitle:(NSString *)title DescriptionText:(NSString *)description;
++ (instancetype)viewControllerWithNavgationTitle:(NSString *)title descriptionText:(NSString *)description;
 
-- (instancetype)initWithNavgationTitle:(NSString *)title DescriptionText:(NSString *)description;
+- (instancetype)initWithNavgationTitle:(NSString *)title descriptionText:(NSString *)description;
 @end
 NS_ASSUME_NONNULL_END

@@ -518,6 +518,7 @@
 				6B19B3B51C089A9A006C95DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B19B3B61C089A9A006C95DD /* Build configuration list for PBXNativeTarget "ScanQRCodeDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +527,7 @@
 				6B19B3B81C089A9A006C95DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B19B3B91C089A9A006C95DD /* Build configuration list for PBXNativeTarget "ScanQRCodeDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +536,7 @@
 				6B19B3BB1C089A9A006C95DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
